@@ -21,7 +21,7 @@ The grading for this assignment will be based on the following criteria:
 
 ### Group Grade
 * 8 points - Demonstration is well thought out and covers all the major points. The demonstration is clear and concise. Participating members are able to answer questions about the project, including design choices.
-* 6 points - Demonstration is well thought out and covers all the major points. The demonstration is clear and concise. It is able to demonstrate all features. The majority of the members struggle at answering more detailed questions. \
+* 6 points - Demonstration is well thought out and covers all the major points. The demonstration is clear and concise. It is able to demonstrate all features. The majority of the members struggle at answering more detailed questions. 
 * 4 points - Demonstration is missing some key points, but is well thought out. The demonstration features the minimum number of features required.  The majority of the members struggle at answering more detailed questions.
 * 2 points - The product isn't working or unable to demonstrate the main components, but students can talk about the process.
 * 0 points - The product isn't working and students are unable to talk about the process.
