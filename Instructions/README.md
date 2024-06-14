@@ -7,7 +7,7 @@ Below lists the high level overview for your final project. You will want to rev
 For this final project, you will be working in a team (your Team Activity groups) to build an application that focuses on collecting information about products, building lists, and sharing that information with others. You will have a lot of freedom on what you pick for the "product", such as it could be you are tracking board game collections, products in a book store, or maybe fish in multiple aquariums.
 
 ### Your Team
-Your team is a group hired by company "Collections Incorporated" to prototype new products for them. Your TA is the production manager for your team, so will act as a research throughout this process. Your instructor, the division manager incase there are any issues, and will be evaluating the final product produced by your team. To simulate this environment, there will be a number of assessment points in the final project, that include both individual and team components being graded. In the end, you will have a mini-program you will be able to demonstrate to your production manager (TA) and others. 
+Your team is a group hired by company "Collections Incorporated" to prototype new products for them. Your TA is the production manager for your team, so will act as a resource and sounding board throughout this process. Your instructor, the division manager incase there are any issues, and will be evaluating the final product produced by your team. To simulate this environment, there will be a number of assessment points in the final project, that include both individual and team components being graded. In the end, you will have a mini-program you will be able to demonstrate to your production manager (TA) and others. 
 
 
 ## Your Application
