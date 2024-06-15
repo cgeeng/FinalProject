@@ -20,7 +20,7 @@ Additionally, you should include a separate paragraph/point on each of your team
 
 * Team Member Name, and their role in the project. What was one thing you learned from them. Rating (between 0-4) of their contribution to the project. 
 
-The last part is always hard to do. It is important to remember that this is a learning experience, and that you are not trying to 'get' your team members. You are trying to provide feedback that is constructive and helpful. We will only be using the rating very lightly as we evaluate other metrics towards individual contribution. 
+The last part is always hard to do. It is important to remember that this is a learning experience, and that rating yourself and others is something that happens in a work environment. We will only be using the rating very lightly as we evaluate other metrics towards individual contribution. 
 
 
 ## Grading
