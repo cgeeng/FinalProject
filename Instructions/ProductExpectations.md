@@ -25,6 +25,8 @@ All projects must have the following documentation:
     * Essentially, if we can read the README.md file, can we figure out where everything is stored. So you probably want links to the manual and design documents.
   * The README.md file should be stored in the root directory of the project.
 
+* A GitHub Project board enabled/used in your team's final project repository (see: [Setting Up GitHub Projects](GitHubProjects.md))
+
 
 ## Testing and Style Requirements
 
@@ -113,6 +115,10 @@ Github recommends the following flow when working on a group project.
 [Read More](https://docs.github.com/en/get-started/using-github/github-flow)
 
 In either case, part of this projects involves a lot of communication with group members as you are all working on the same code base. While we won't enforce a flow, make sure to use the tools to your advantage. 
+
+## Setting up GitHub Projects
+
+In addition to creating a team repository, each group will need to set up a GitHub Project board to help track and manage project work. Please see the [Setting Up GitHub Projects](GitHubProjects.md) instructions for a step-by-step walk through of how to set this up.
 
 ## Grading Rubric
 The following rubric will be used for grading. As long as your github has the latest version, we will go there to grade your team. There is no submission on canvas (or gradescope) for the final project. Grading will start after the hard cut off date, and no submissions after that date will be accepted.
