@@ -5,7 +5,7 @@ Your internship team has (hopefully) completed the application to the point wher
 
 ## Demonstration Expectations
 
-Each member of your team will be responsible for demonstrating a part of the final application to the product manager (TA). This will be done in the last week of class, and will be a live demonstration of the product, and will be done in a group meeting or another arranged time.
+Each member of your team will be responsible for demonstrating a part of the final application. This will be done in the last week of class, and will be a live demonstration of the product, and will be done in a group meeting or another arranged time.
 
 The demonstration should include the following:
 
