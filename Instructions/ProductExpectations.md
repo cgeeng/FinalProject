@@ -78,6 +78,7 @@ The rubric below defines you have to implement a number of features based on you
 * Group of 5
   * To meet expectations, you must implement all required features, plus three more.
   * To exceed expectations, you must implement all required features, plus five more.
+  * One of the additional/optional features MUST be a Graphical User Interface
 
   
 > [!WARNING]
