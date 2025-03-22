@@ -5,7 +5,7 @@ Your internship team has (hopefully) completed the application to the point wher
 
 ## Demonstration Expectations
 
-Each member of your team will be responsible for demonstrating a part of the final application. This will be done in the last week of class, and will be a live demonstration of the product, and will be done in a group meeting or another arranged time.
+Each member of your team will be responsible for demonstrating a part of the final application. This will be done on the last class of the semester, and will be a live demonstration of the product in front of the class.
 
 The demonstration should include the following:
 
@@ -27,6 +27,6 @@ The grading for this assignment will be based on the following criteria:
 * 0 points - The product isn't working and students are unable to talk about the process.
 
 ### Individual Grade
-* 4 points - Student is present and contributes to the demonstration, their camera is on (unless they have a good reason for it not to be), and they are able to answer questions about the demonstration.
+* 4 points - Student is present and contributes to the demonstration, and they are able to answer questions about the demonstration.
 * 2 points - Student attends the meeting.
 * 0 points - Student is not present.
