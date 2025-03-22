@@ -41,15 +41,16 @@ All projects must have the following documentation:
 
 A bare minimum, all projects need to have some aspect of the following components:
 
-
-* Graphical User Interface (Can be a website or java swing/awt)
 * Be able to view all items in the collection - in a logical order
 * Be able to build a list of items from the collection
 * Be able to save out that list using a file format we covered in the course such as .xml, .json, or .csv.
 
+Normally you would be required to implement a GUI, but given the lack of time in the course, a console view is acceptable.
+
 ### Additional/Optional Features
 With that said, there are a number of other features you may want to add to your project. Here are some ideas (You  may have others)
 
+* Graphical User Interface (Can be a website or java swing/awt)
 * Be able to load in lists of items / previously saved lists, and modify them.
 * Be able to search for items in the collection
 * Be able to sort items in the collection
