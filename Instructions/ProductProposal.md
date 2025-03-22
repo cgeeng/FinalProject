@@ -3,6 +3,8 @@
 
 Your internship team having spent time talking about your goals and plans, now is being asked to proposal the application to the product manager. Your manager is an experienced developer who plans to give you feedback on your proposal, and help you refine your ideas. Since they are an experienced developer, they expect the conversation to be in depth, and will be asking questions about your design, your timeline, and your plans for the final project.
 
+You will present this at Recitation to an Instructor after the proposal is due.
+
 
 ## Proposal Expectations
 The proposal does not have to be a formal presentation. Though if that helps the team keep their thoughts organized, that is fine. Every team member should be present to talk about the proposal. The proposal should include the following:
@@ -37,5 +39,5 @@ The grading for this assignment will be based on the following criteria:
 
 
 #### Individual Grade
-* 2 points - Student is present and contributes to the proposal, their camera is on (unless they have a good reason for it not to be), and they are able to answer questions about the proposal.
+* 2 points - Student is present and contributes to the proposal at recitation and they are able to answer questions about the proposal.
 * 1 point - Student attends the meeting. 
