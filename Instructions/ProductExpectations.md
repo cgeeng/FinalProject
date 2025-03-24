@@ -45,7 +45,7 @@ A bare minimum, all projects need to have some aspect of the following component
 * Be able to build a list of items from the collection
 * Be able to save out that list using a file format we covered in the course such as .xml, .json, or .csv.
 
-Normally you would be required to implement a GUI, but given the lack of time in the course, a console view is acceptable.
+Normally you would be required to implement a GUI, but given the lack of time in the course, a text view is acceptable.
 
 ### Additional/Optional Features
 With that said, there are a number of other features you may want to add to your project. Here are some ideas (You  may have others)
