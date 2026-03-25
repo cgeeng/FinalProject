@@ -23,7 +23,7 @@ To break up the project (and this document) into manageable parts, there will be
 
 ### Individual Components
 
-* [Product Proposal](ProductProposal.md) - As a team, you will be presenting your initial design, timeline, a small prototype, and a plan for the final project to your product manager (TA). This will ideally happen at your weekly team meeting, but if the TA can't make that time, you will have to arrange another time that fits everyone's schedules for that week.  
+* [Product Proposal](ProductProposal.md) - As a team, you will be presenting your initial design, timeline, a small prototype, and a plan for the final project to your product manager (TA). This will ideally happen at recitation, but if the TA can't make that time, you will have to arrange another time that fits everyone's schedules for that week.  
     * Group Points - 4 points 
     * Individual Points - 2 points
 * [Demonstration](ProductDemonstration.md) - Each team member will be responsible for demonstrating a part of the final application to the product manager (TA). This will be done in the last week of class, and will be a live demonstration of the product, and will be done in a group meeting or another arranged time. 
