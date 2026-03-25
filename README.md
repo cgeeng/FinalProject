@@ -8,4 +8,12 @@ This readme should contain the following information:
 * Links to design documents and manuals
 * Instructions on how to run the application
 
-Ask yourself, if you started here in the readme, would you have what you need to work on this project and/or use the application?
+Ask yourself, if you started here in the readme, would you have what you need to work on this project and/or use the application?  
+
+
+Added two last sections as reminders that are needed for homework.
+
+## LLM Disclosure 
+
+
+## References

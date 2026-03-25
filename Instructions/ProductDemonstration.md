@@ -27,6 +27,6 @@ The grading for this assignment will be based on the following criteria:
 * 0 points - The product isn't working and students are unable to talk about the process.
 
 ### Individual Grade
-* 4 points - Student is present and contributes to the demonstration, and they are able to answer questions about the demonstration.
+* 4 points - Student is present and contributes to the demonstration.  They are able to answer questions on what they implemented during their individual codewalk.
 * 2 points - Student attends the meeting.
 * 0 points - Student is not present.
